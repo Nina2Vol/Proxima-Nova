@@ -342,6 +342,7 @@ h1 {
 .author-medal {
     position: relative;
     margin-left: -80px;
+    padding-right:40px;
 }
 .medal {
     position: relative;

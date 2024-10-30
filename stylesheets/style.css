@@ -1,0 +1,6 @@
+@import "reset.css";    
+/* сбрасывает стили браузера */
+@import "fonts.css";
+@import "layout.css";
+/* основной контент */
+@import "index.css";

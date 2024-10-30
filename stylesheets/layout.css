@@ -995,7 +995,7 @@ transform: rotate(-4deg)
 a {
     color: #ffffff;
     text-decoration: none;
-
+    cursor: auto;
     border-bottom: 2px solid rgb(255, 255, 255)
 }
 

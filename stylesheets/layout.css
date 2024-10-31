@@ -63,7 +63,7 @@ p {
     height: 890px;
     margin: 0px auto;
     overflow-x: hidden;
-    background-image: url("../image/img1.png");
+    background-image: url("../image/planeproxima.svg");
 }
 
 .section-1-img{
@@ -406,7 +406,7 @@ h1 {
     margin-left: 84px;
     width: 660px;
     height: 487px;
-    background-image: url("../image/author-photo.png");
+    background-image: url("../image/marksimonson.svg");
     border-radius: 5px;
     border: 2px solid #193F79;
 }
